@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="VentanasEmergentesI"/>
+    <fullyQualifiedTypeName name="java.util.ResourceBundle.Control"/>
+    <fullyQualifiedTypeName name="com.holamundo.mvc.controllers.ControllerPersona"/>
+    <fullyQualifiedTypeName name="com.holamundo.mvc.controllers.ControllerPersonas"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.holamundo.mvc.models.ListaPersonas"/>
+    <fullyQualifiedTypeName name="com.holamundo.mvc.models.Persona"/>
+</qualifiedTypeNameHistroy>

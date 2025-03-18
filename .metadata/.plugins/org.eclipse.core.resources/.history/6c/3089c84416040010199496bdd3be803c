@@ -1,0 +1,13 @@
+package com.holamundo.mvc.controllers;
+
+public class ControllerPersonas {
+
+	public ControllerPersonas() {
+		
+	}
+	
+	public void init() {
+		
+	}
+	
+}

@@ -1,0 +1,22 @@
+package com.holamundo.mvc.models;
+
+import java.util.ArrayList;
+
+public class ListaPersonas {
+
+	private ArrayList<Persona> lista;
+	
+	public ListaPersonas() {
+		lista = new ArrayList<Persona>();
+	}
+	
+	// CREATE
+	public void create() {
+		
+	}
+	
+	// READ
+	// UPDATE
+	// DELETE
+
+}
