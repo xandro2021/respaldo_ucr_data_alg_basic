@@ -1,0 +1,48 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+*.class
+build
+
+# Archivos y carpetas de Eclipse
+.metadata/
+.project
+.settings/
+.classpath
+.buildpath
+
+# Archivos de compilación y ejecución
+**/bin/
+**/target/
+**/build/
+
+# Archivos de configuración de Eclipse
+.eclipse/
+.eclipse-metadata/
+
+# Archivos de depuración
+*.debug
+*.dbg
+
+# Archivos de logs
+*.log
+*.out
+
+# Archivos de configuración de proyecto
+pom.xml.tag
+pom.xml.releaseBackup
+
+# Archivos de configuración de usuario
+.user/
+.userlibraries/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDE
+.idea/
+.vscode/
+.netbeans/
