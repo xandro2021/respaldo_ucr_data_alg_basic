@@ -22,6 +22,15 @@ public class ControllerPersonas {
 
     System.out.println(l.getData());
     System.out.println(l.getVivos());
+
+    int elem_buscar = 0;
+    System.out.println("El elemento #"+elem_buscar+" corresponde a: ");
+    System.out.println(l.getItem(elem_buscar));
+
+
+    System.out.println("El elemento #"+elem_buscar+" ha sido eliminado");
+    l.delete(elem_buscar);
+    System.out.println(l.getData());
   }
 
 }
