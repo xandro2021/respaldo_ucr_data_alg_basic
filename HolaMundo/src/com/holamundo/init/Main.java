@@ -12,13 +12,6 @@ public class Main {
 
     new ControllerPersonas().init();
 
-    int misdatos = Integer.parseInt(JOptionPane.showInputDialog("Ingresa entero"));
-    System.out.println(misdatos);
-    misdatos++;
-    System.out.println(misdatos);
-    misdatos++;
-    System.out.println(misdatos);
-
   }
 
 }
